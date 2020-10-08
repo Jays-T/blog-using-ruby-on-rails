@@ -1,6 +1,6 @@
 # Building a simple blog to introduce myself to Ruby on Rails
 
-Things you may want to cover:
+
 
 * Ruby version
 
